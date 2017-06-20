@@ -5,7 +5,7 @@ image_resource:
   source: {repository: limaofeng/gradle-alpine}
     
 inputs:
-  - name: demo-resource
+  - name: demo-actuator
   
 outputs:
   - name: resource-app
