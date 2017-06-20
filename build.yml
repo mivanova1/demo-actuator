@@ -11,4 +11,4 @@ outputs:
   - name: resource-app
   
 run:
-  path: ./demo/ci/build.sh
+  path: ./demo-actuator/ci/build.sh
