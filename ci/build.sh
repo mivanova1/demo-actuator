@@ -4,7 +4,7 @@ set -e -x
 apk update
 apk add git
 
-git clone https://github.com/mivanova1/demo resource-app
+git clone https://github.com/mivanova1/demo-actuator resource-app
 
 pwd
 
